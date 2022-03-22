@@ -1,7 +1,6 @@
 # Cplusplus_Rodne_cislo
 
-<div>
-<p>
+
   /* localtime example */
 #include <stdio.h>      /* puts, printf */
 #include <time.h>       /* time_t, struct tm, time, localtime */
@@ -17,5 +16,4 @@ int main ()
 
   return 0;
 }
-</p>  
-</div>
+
