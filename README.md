@@ -1,7 +1,7 @@
 # Cplusplus_Rodne_cislo
 
 
-  /* localtime example */
+/* localtime example */
 #include <stdio.h>      /* puts, printf */
 #include <time.h>       /* time_t, struct tm, time, localtime */
 
